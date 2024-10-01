@@ -1,0 +1,200 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/17.0
+vbit_mux64to1
+Z0 !s110 1727805568
+!i10b 1
+!s100 IaVKenlRfILX>:3MO^6633
+IUmORPOS^JlX5b8b>BCEoF3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/NewProjects/datapath
+Z3 w1727805461
+Z4 8D:\NewProjects\datapath\regfile.v
+Z5 FD:\NewProjects\datapath\regfile.v
+L0 89
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1727805568.000000
+Z8 !s107 D:\NewProjects\datapath\regfile.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|D:\NewProjects\datapath\regfile.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vbit_reg
+R0
+!i10b 1
+!s100 RK<zZ=fe83`_VDgVQA=Gb2
+I6_2=dC^jWTZWV0>e8b3h61
+R1
+R2
+R3
+R4
+R5
+L0 69
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vdatapath
+R0
+!i10b 1
+!s100 7[L:LOVbk>kLfjeNfZ>KV0
+Ij7:mhZ[PhNFSgPcELBn3_3
+R1
+R2
+w1727805111
+8D:\NewProjects\datapath\datapath.v
+FD:\NewProjects\datapath\datapath.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+!s107 D:\NewProjects\datapath\datapath.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\NewProjects\datapath\datapath.v|
+!i113 1
+R10
+R11
+vdecoder_6_to_64
+R0
+!i10b 1
+!s100 _7cUYc;nD7D;ij=B^MIAm2
+IbigA`<>1S@:?D:N7lgNB:2
+R1
+R2
+R3
+R4
+R5
+L0 54
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vmemory
+R0
+!i10b 1
+!s100 Zn:bjlh6nG:k[NhlNV=gg0
+I6LQJNAlg6[g3iiCkZA5cl1
+R1
+R2
+w1727805377
+8D:\NewProjects\datapath\memory.v
+FD:\NewProjects\datapath\memory.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+!s107 D:\NewProjects\datapath\memory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\NewProjects\datapath\memory.v|
+!i113 1
+R10
+R11
+vmux4x1_6bit
+R0
+!i10b 1
+!s100 Bde1PeBLVK10]ZUz^@8`X0
+Iolz;?2[o79z>^]`Z2KH:n1
+R1
+R2
+w1727805425
+8D:\NewProjects\datapath\mux4x1.v
+FD:\NewProjects\datapath\mux4x1.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+!s107 D:\NewProjects\datapath\mux4x1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\NewProjects\datapath\mux4x1.v|
+!i113 1
+R10
+R11
+vRegisterFile
+R0
+!i10b 1
+!s100 ]LX1FHWNaLdi@d4WTSa5E2
+IZn:ZEi<j]Dh8^?VoOV4gL1
+R1
+R2
+R3
+R4
+R5
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@register@file
+vsign_extension
+!s110 1727805569
+!i10b 1
+!s100 j4;1[4K`[zJaOLg7O5nz02
+IoLCNm:2aQVOQ7kBBfgSfQ3
+R1
+R2
+w1727805349
+8D:\NewProjects\datapath\signext.v
+FD:\NewProjects\datapath\signext.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+!s107 D:\NewProjects\datapath\signext.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\NewProjects\datapath\signext.v|
+!i113 1
+R10
+R11
+vtb_datapath
+R0
+!i10b 1
+!s100 :Xc`o9][<W_QB84C<gA`d0
+IVTnO:=ifVnQK_BL=aRZhP0
+R1
+R2
+w1727805184
+8D:\NewProjects\datapath\datapath_tb.v
+FD:\NewProjects\datapath\datapath_tb.v
+L0 3
+R6
+r1
+!s85 0
+31
+R7
+!s107 D:\NewProjects\datapath\datapath_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\NewProjects\datapath\datapath_tb.v|
+!i113 1
+R10
+R11

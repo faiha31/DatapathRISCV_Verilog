@@ -1,0 +1,46 @@
+D:/NewProjects/datapath/regfile.v {1 {vlog -work work -stats=none {D:\NewProjects\datapath\regfile.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module RegisterFile
+-- Compiling module decoder_6_to_64
+-- Compiling module bit_reg
+-- Compiling module bit_mux64to1
+
+Top level modules:
+	RegisterFile
+
+} {} {}} D:/NewProjects/datapath/signext.v {1 {vlog -work work -stats=none {D:\NewProjects\datapath\signext.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module sign_extension
+
+Top level modules:
+	sign_extension
+
+} {} {}} D:/NewProjects/datapath/mux4x1.v {1 {vlog -work work -stats=none {D:\NewProjects\datapath\mux4x1.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module mux4x1_6bit
+
+Top level modules:
+	mux4x1_6bit
+
+} {} {}} D:/NewProjects/datapath/datapath.v {1 {vlog -work work -stats=none {D:\NewProjects\datapath\datapath.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module datapath
+
+Top level modules:
+	datapath
+
+} {} {}} D:/NewProjects/datapath/datapath_tb.v {1 {vlog -work work -stats=none {D:\NewProjects\datapath\datapath_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_datapath
+
+Top level modules:
+	tb_datapath
+
+} {} {}} D:/NewProjects/datapath/memory.v {1 {vlog -work work -stats=none {D:\NewProjects\datapath\memory.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module memory
+
+Top level modules:
+	memory
+
+} {} {}}
